@@ -7,13 +7,16 @@ char Move(int *,char,int, int);
 
 /*    Next steps for SDP:
 
+
 1. create object for user one, user two, and program all functions related to them (andon)
 
-2. figure out how to draw the arrow
+2. create start menu for (distance traveled, arrows fired, reset button, wins, for each player) - (andon)
 
-3. create object for the arrows, press direction button - then the arrow fires in that direction arrows
+3. figure out how to draw the arrow (nolan)
 
-4. users have limited number of arrows, but with ability to reload
+4. create object for the arrows, press direction button - then the arrow fires in that direction arrows (nolan)
+
+5. users have limited number of arrows, but with ability to reload (undecided)
 */ 
 
 void Start() {
