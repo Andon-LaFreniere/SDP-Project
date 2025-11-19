@@ -1,5 +1,6 @@
 # FEH SDP Project AU24  
 ## Bow Bros
+![alt text](./game.png)
 
 ## What is it?
 Bow Bros is a two-player, turn-based game where the goal is to eliminate the opposing player with an arrow before the border fully closes in.
